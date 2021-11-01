@@ -1,0 +1,10 @@
+@charset "ISO-8859-1";
+
+body{
+	background-color:green;
+}
+
+button{
+	margin-left: 300px;
+    display: block;
+}
